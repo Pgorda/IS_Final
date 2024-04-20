@@ -1,0 +1,41 @@
+p{
+    font-weight: bold;
+    font-size: 20px;
+}
+
+#top{
+    text-decoration: underline;
+}
+
+/*this is the comment begin and end with-*/
+.emphasizedtext{
+    font-style: italic;
+    color: rgb(255, 160, 58);
+}
+
+a:visited {
+    color:rgb(255, 144, 54);
+}
+
+a:link {
+    color:rgb(248, 163, 120);
+}
+body{
+    background-color: rgb(22, 34, 0);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    border: 5px solid white;
+    padding: 20px;
+    margin: 20px;
+    text-align: left;
+
+}
+
+body{
+    color: rgb(255, 255, 239);
+}
+ol{
+    list-style-position: inside;
+}
+ul{
+    list-style-position: inside;
+}
